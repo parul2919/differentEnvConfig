@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+Env :
+1) This solution is for create-react-app repos
+2) We need env-cmd nam pcg to be installed
+3) Now parallel to your src folder , create your environment files like in my repo 
+4) 4) Specify your variables
+5) Now in package.json file, change the scripts to serve your specified env files like in repo
+
+And we all sorted :) Happy working with these easy hacks
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
